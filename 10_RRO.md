@@ -16,6 +16,7 @@
 
 
 # RRO Overlay Process.
+
 ![image](https://github.com/user-attachments/assets/e5f41497-dc09-4d0d-9bfb-70616f577522)
 
 ### RRO Resources.arsc = Overlayable Resources.
@@ -24,10 +25,8 @@
 
 
 # Static vs Dynamic RRO.
-
-![image](https://github.com/user-attachments/assets/963edc10-6734-4b50-84d0-4daabfc37101)
-
+![image](https://github.com/user-attachments/assets/e5f41497-dc09-4d0d-9bfb-70616f577522)
 
 
 # Difference.
-![image](https://github.com/user-attachments/assets/d25af671-b1ba-4e54-a4d4-9c6167071138)
+![image](https://github.com/user-attachments/assets/963edc10-6734-4b50-84d0-4daabfc37101)
