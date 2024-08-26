@@ -25,7 +25,8 @@
 
 # Static vs Dynamic RRO.
 
-![image](https://github.com/user-attachments/assets/f93f0574-72a8-4d16-b38b-2067f036f1f7)
+![image](https://github.com/user-attachments/assets/963edc10-6734-4b50-84d0-4daabfc37101)
+
 
 
 # Difference.
