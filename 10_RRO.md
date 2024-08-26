@@ -2,32 +2,31 @@
 
 
 # What is Overlays?
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/7d80c963-bae2-49d2-b0cb-7f0749eac0a6)
 
 
 # What can be Overlayed?
-![image](https://github.com/user-attachments/assets/5850a664-39f5-4558-a9d4-dfd22b4d3e56)
+![image](https://github.com/user-attachments/assets/a3ec8a9e-113a-4d5c-8179-1cd8b64f1242)
 
 
 # What cannot be overlayed?
 - The Source code files i.e., Java or Kotlin files cannot be overlayed.
 - But We can overlay the Resource files.
-![image](https://github.com/user-attachments/assets/7dc08772-c0dd-4ac7-8ce2-2ec8bd3581cf)
+![image](https://github.com/user-attachments/assets/3877a818-98a1-4618-a705-dfd8a9d99435)
 
 
 # RRO Overlay Process.
-
-![image](https://github.com/user-attachments/assets/f924c490-cd17-4b7f-b1bf-4c328879d44d)
-
+![image](https://github.com/user-attachments/assets/e5f41497-dc09-4d0d-9bfb-70616f577522)
 
 ### RRO Resources.arsc = Overlayable Resources.
 ### RRO idmap = It's a table which has one on one map of the overlayed resources.
  - Uesd to get the corresponding resource Id for the overlayable resources.
 
+
 # Static vs Dynamic RRO.
 
-![image](https://github.com/user-attachments/assets/00fb67be-0fc9-4885-845a-4b9c84d567ae)
+![image](https://github.com/user-attachments/assets/f93f0574-72a8-4d16-b38b-2067f036f1f7)
+
 
 # Difference.
 ![image](https://github.com/user-attachments/assets/d25af671-b1ba-4e54-a4d4-9c6167071138)
